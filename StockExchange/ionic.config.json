@@ -1,0 +1,8 @@
+{
+  "name": "StockExchange",
+  "app_id": "96ce41d9",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
